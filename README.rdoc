@@ -1,4 +1,4 @@
-<h1>About</h1>
+About
 -----
 
 This single-page app attempts to address a major issue in the wildlife rehabilitation community - the lack of an easy to navigate and step-by-step care guide for concerned citizens who come upon injured animals.
