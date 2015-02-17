@@ -1,0 +1,24 @@
+About
+-----
+
+This single-page app attempts to address a major issue in the wildlife rehabilitation community - the lack of an easy to navigate and step-by-step care guide for concerned citizens who come upon injured animals.
+
+The purpose of this project is actually three-fold:
+
+1. Offer users specific, detailed and actionable advice on how to provide temporary assistance to wounded or abandoned animals based on submitted data about species and maturity.
+
+2. Reduce burden on wildlife rehab centers and the endangerment of animals by clearly outlining situations and circumstances that call for the removal of animals from their habitats for professional care, while trying to answer common questions and dispel popular myths about the handling of wildlife.
+
+3. Provide directions and contact information for nearest wildlife rehabiliation center in the event that such care is actually necessary.
+
+Technologies
+----
+
+The app is built with Rails and uses Angular.js to render dynamic content in response to client side events. The database is maintained with PostgreSQL.
+
+Mapping is done by comparing geodata extracted from the user's IP address to values from an API built specifically for this app that compiles data about wildlife rehabilitators in every state.
+
+Upcoming features
+----
+
+Users will be able to create personal accounts that allow them to sign up for automatic alerts whenever a query is made regarding specific species in specific areas.This is mainly directed at rehabbers and researchers who have an interest in collecting data about often-unreported encounters with wildlife, and will offer the user a choice between email or automated text messages via Twillio.
