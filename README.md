@@ -1,4 +1,3 @@
-#About
 ##Table of Contents
 **[Introduction](#introduction)** <br>
 **[Technologies](#technologies)** <br>
