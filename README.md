@@ -2,9 +2,9 @@
 ##Table of Contents
 **[Introduction](#introduction)** <br>
 **[Technologies](#technologies)** <br>
-**[Minimum Viable Product](#minimum-viable-product)** <br>
+**[Minimum Viable Product](#minimum viable product)** <br>
 **[Wishlist](#wishlist)** <br>
-**[Outstanding Issues](#issues)** <br>
+**[Outstanding Issues](#outstanding issues)** <br>
 
 
 ###Introduction
