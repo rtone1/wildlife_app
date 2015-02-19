@@ -21,15 +21,13 @@ The purpose of this project is actually three-fold:
 
 ###Technologies
 
-The app is built with Rails and uses AngularJS to render dynamic content in response to client side events. The database is maintained with PostgreSQL.
+The app is built with Rails and uses Angular.js to render dynamic content in response to client side events. The database is maintained with PostgreSQL.
 
 Mapping is done by comparing geodata inferred from the user's IP address (through use of the GLL API) to values returned from an API that compiles contact and location data about wildlife rehabilitators in every state.
 
 ###Minimum Viable Product
 
-My MVP was pretty straightforward. A user would be prompted to choose from 3 categories of animals (land mammals, birds, and marine animals), the selection of which would trigger an animation that shoves aside the prompt and replaces it with one that asks them to narrow down the query, first by species, and then by maturity. This would transition into a new element that gets populated with the appropriate instructions. Finally, the user would be given an option to see information about their nearest rehabiliator - first as plain text, and in later versions of the app, a map view. 
-
-The database currently contains complete step-by-step care tutorials for juveniles and adults of 11 species, with plans to add many more.
+My MVP was pretty straightforward. A user would be prompted to choose from 3 categories of animals (land mammals, birds, and marine animals), the selection of which would trigger an animation that shoves aside the prompt and replaces it with one that asks them to narrow down the query, first by species, and then by maturity. This would transition into a new element that gets populated with the appropriate instructions. Finally, the user would be given an option to see information about their nearest rehabiliator - first as plain text, and in later versions of the app, a map view. Database currently contains complete step-by-step care tutorials for juveniles and adults of 11 species.
 
 ###Wishlist
 
@@ -41,8 +39,8 @@ I was grabbed by the angular material we went over in class and was really excit
 
 Because the data set I'm working with is totally static and the actual mechanics of a pared-down, multi-page version of the app would be trivially simple, I felt comfortable spending the majority of the last week researching and trying to enact a very polished presentation of it. I didn't pivot away from my original vision nearly as quickly as I should have (that is, to say...at all) to meet my MVP because it felt like I was always around the corner from a solution.
 
-The outstanding issue at this point is that, as of right now, I've scrapped nearly everything besides my database. My json is rendering, but nothing flowed the way I had hoped and it's going to take at least a few more days of intense tinkering to get it sorted back out and close to where I want. This project tackles something hugely important to me and I'm excited to continue pursuing it full-time.
+The outstanding issue at this point is that, as of right now, I've scrapped nearly everything besides my database. My json is rendering, but nothing flowed the way I had hoped and it's going to take at least a few more days of intense tinkering to get it sorted back out and close to where I want. This project tackles something hugely important to me and I'm excited to continue pursuing it.
 
 In case anyone is interested, two angular resources I've been finding helpful are:
 <br>[A Better Way to Learn AngularJS](https://thinkster.io/a-better-way-to-learn-angularjs/)
-<br>[Learn To Build Modern Web Apps With MEAN](https://thinkster.io/mean-stack-tutorial/)
+<br><br>[Learn To Build Modern Web Apps With MEAN](https://thinkster.io/mean-stack-tutorial/)
