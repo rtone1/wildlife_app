@@ -20,7 +20,7 @@ The purpose of this project is actually three-fold:
 
 ###Resources
 
-The app is built with Rails and uses Angular.js to render dynamic content in response to client side events. The database is maintained with PostgreSQL.
+The app is built with Ruby on Rails and uses Angular.js to render dynamic content in response to client side events. The database is maintained with PostgreSQL.
 
 Mapping is done by comparing geodata inferred from the user's IP address (through use of the GLL API) to values returned from an API that compiles contact and location data about wildlife rehabilitators in every state.
 
