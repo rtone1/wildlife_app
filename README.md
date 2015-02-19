@@ -27,7 +27,7 @@ Mapping is done by comparing geodata inferred from the user's IP address (throug
 
 ###Minimum Viable Product
 
-My MVP was pretty sraightforward. A user would be prompted to choose from 3 categories of animals (land mammals, birds, and marine animals), the selection of which would trigger an animation that shoves aside the prompt and replaces it with one that asks them to narrow down the query, first by species, and then by maturity. This would transition into a new element that gets populated with the appropriate instructions. Finally, the user would be given an option to see information about their nearest rehabiliator - first as plain text, and in later versions of the app, a map view.
+My MVP was pretty straightforward. A user would be prompted to choose from 3 categories of animals (land mammals, birds, and marine animals), the selection of which would trigger an animation that shoves aside the prompt and replaces it with one that asks them to narrow down the query, first by species, and then by maturity. This would transition into a new element that gets populated with the appropriate instructions. Finally, the user would be given an option to see information about their nearest rehabiliator - first as plain text, and in later versions of the app, a map view.
 
 ###Wishlist
 
