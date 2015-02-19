@@ -1,6 +1,6 @@
 ##Table of Contents
 **[Introduction](#introduction)** <br>
-**[Technologies](#technologies)** <br>
+**[Resources](#resources)** <br>
 **[Minimum Viable Product](#minimum viable product)** <br>
 **[Wishlist](#wishlist)** <br>
 **[Outstanding Issues](#outstanding issues)** <br>
@@ -18,7 +18,7 @@ The purpose of this project is actually three-fold:
 
 3. Provide directions and contact information for nearest wildlife rehabiliation center in the event that such care is actually necessary.
 
-###Technologies
+###Resources
 
 The app is built with Rails and uses Angular.js to render dynamic content in response to client side events. The database is maintained with PostgreSQL.
 
