@@ -35,8 +35,11 @@ Users will be able to create personal accounts that allow them to sign up for au
 
 ###Outstanding Issues
 
-I was grabbed by the angular material we went over in class and was really excited to jump deeper into it. For the most part, since the mission of the app is so straightforward, this meant using animations and hidden objects to prsent a really intuitive and clean flow from landing to final result. As it turned out, the vision I had turned out to be harder to implement than I expected. 
+I was grabbed by the angular material we went over in class and was really excited to jump deeper into it. For the most part, since the mission of the app is so straightforward, this meant using animations and hidden objects to present an intuitive and clean flow from landing to final result. As it turned out, the vision I had turned out to be harder to implement than I expected. 
 
 Because the data set I'm working with is totally static and the actual mechanics of a pared-down, multi-page version of the app would be trivially simple, I felt comfortable spending the majority of the last week researching and trying to enact a very polished presentation of it. I didn't pivot away from my original vision as quickly as I should have to meet my MVP because it felt like I was always around the corner from a solution.
 
-The outstanding issue at this point is that, as of right now, I've scrapped nearly everything besides my database. My json is rendering, but nothing flowed the way I had hoped and it's going to take at least a few more days of intense tinkering to get it close to where I want. This project addresses something hugely important to me and I'm excited to continue working on it full-time.
+The outstanding issue at this point is that, as of right now, I've scrapped nearly everything besides my database. My json is rendering, but nothing flowed the way I had hoped and it's going to take at least a few more days of intense tinkering to get it close to where I want. This project tackles something hugely important to me and I'm excited to continue working on it full-time.
+
+In case anyone is interested, two angular resources I found really helpful are:
+[test](https://thinkster.io/a-better-way-to-learn-angularjs/)
