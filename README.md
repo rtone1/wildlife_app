@@ -42,5 +42,6 @@ Because the data set I'm working with is totally static and the actual mechanics
 The outstanding issue at this point is that, as of right now, I've scrapped nearly everything besides my database. My json is rendering, but nothing flowed the way I had hoped and it's going to take at least a few more days of intense tinkering to get it sorted back out and close to where I want. This project tackles something hugely important to me and I'm excited to continue pursuing it.
 
 In case anyone is interested, two angular resources I've been finding helpful are:
+<br>
 <br>[A Better Way to Learn AngularJS](https://thinkster.io/a-better-way-to-learn-angularjs/)
 <br><br>[Learn To Build Modern Web Apps With MEAN](https://thinkster.io/mean-stack-tutorial/)
